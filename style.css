@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Orbitron, poppins;
+}
+
+.navbar-container{
+    display: inline-block;
+    justify-content: space-around;
+    margin-top: 50px;
+    height: 100px; 
+}
+.logo{
+    margin-top: 5px;
+    margin-left: 306px;
+    width: 5px;
+    height: 10px;
+
+}
+
+.list{
+    list-style-type: none;
+    padding-left: 502px;
+    margin-right: 475px;
+    margin-top: -9px;
+}
+
+.list-item{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 100px;
+    left: 50px;
+    font-size: larger;
+    font-weight: bold;
+}
+.home-navbar{
+    text-decoration: underline;
+    font-size: 30px;
+}
+.button-group{
+    
+    position: absolute;
+    margin-left: 750px;
+    left: 573px;
+}
+
+.search-icon{
+   
+    position: relative;
+    margin-left: 151px;
+    margin-top: -27px;
+    width: 10px;
+    height: 10px;
+    left: 8px;
+
+ 
+}
+.nav-button{
+
+    position: relative;
+    margin-left: 200px;
+    position: absolute;
+    margin-top: -10px;
+    width: 150px;
+    height: 30px;
+    border-radius: 300px solid black;
+ 
+}
+
+.banner{
+    display: inline-block;
+    position: absolute;
+    margin-left: 30px;
+}
+.hero-container{
+    display: flex;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.square{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.star{
+    position: absolute;
+    right: 300px;
+}
+.star1{
+    position: absolute;
+    bottom: -10px;
+    left: 750px;
+}
+.globe{
+    position: absolute;
+    right: 900px;
+    bottom: 550px;
+}
+.hero-img{
+    display: inline-block;
+    position: relative;
+    right: 480px;
+    top: -67px; 
+}
+.hero-img img{
+    width: 400px;
+    height: 500px;
+}
+.hero-container-right{
+    margin-top: 150PX;
+    margin-right: 300px;
+}
+.hero-heading{
+    font-weight: bold;
+    font-size: 41px;
+
+}
+.hero-description{
+    font-size: 15px;
+    font-family: Poppins;
+}
+.button-email{
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px solid  black;
+}
+.button-join{
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+}
+.contact-heading{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.icons{
+    margin-top: 20px;
+    margin-left: 157px;
+    justify-content: space-around;
+   
+}
